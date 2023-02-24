@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @somto-ibuodinma
-- 👀 I’m interested in becoming an expert at software development
-- 🌱 I’m currently learning software development with Stackademic
+- 👀 I’m a data analyst enthusiast
+- 🌱 I’m currently taking courses at Udacity
 - 💞️ I’m looking to collaborate on great projects
 - 📫 How to reach me sibuodinma@gmail.com
 
