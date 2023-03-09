@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @somto-ibuodinma
-- 👀 I’m a data analyst enthusiast
+- 👀 I’m a data analysis enthusiast
 - 🌱 I’m a Udacity Data Analyst Nanodegree Graduate
 - 💞️ I’m looking to collaborate on great projects
 - 📫 How to reach me sibuodinma@gmail.com
